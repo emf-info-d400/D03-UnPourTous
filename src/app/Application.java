@@ -1,6 +1,7 @@
-import model.Chien;
+package app;
+import models.Chien;
 
-public class App {
+public class Application {
 
     public static void main(String[] args){
         
